@@ -1,0 +1,7 @@
+# ignore everything
+*
+# except for project files
+!.gitignore
+!vcd-get-admin-org-networks.ps1
+!LICENSE
+!README.md
